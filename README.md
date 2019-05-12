@@ -19,7 +19,7 @@
 -->
 
 # PyMICE Tools
-#### *This project is currently under unstable development*
+#### *This project is a work-in-progress*
 
 PyMICE Tools is companion to the PyMICE library for Intellicage analysis
 (https://github.com/Neuroinflab/PyMICE). The two are not directly affiliated. The goal
